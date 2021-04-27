@@ -1,0 +1,1183 @@
+ul.companyInfo li {
+    display: inline-block;
+    padding: 10px;
+}
+
+ul.companyIcons li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.navbar .colorWhite a{
+    color: white!important;
+}
+
+.companyIcons {
+    text-align: right;
+}
+
+.companyInfo i {
+    color: green;
+    padding-right: 5px;
+}
+
+.headerNav a {
+    color: white;
+    text-decoration: none;
+}
+
+.headerNav a:hover {
+    color: green;
+}
+
+
+.navbar .colorWhite a:hover {
+    color: green!important;
+}
+
+.greenColor{
+    color: green;
+}
+
+.buttonSearch i:hover {
+    color: green;
+}
+
+.buttonSearch i{
+    color: white;
+}
+
+button.btn.btn-outline-success.my-2.my-sm-0.buttonSearch {
+    background: none;
+    border: none;
+} /* ne mogu da nadjem odgovarajucu klasu kako bi promenila */
+
+.navLogo img {
+    width: 200px;
+}
+
+.headerPhoto{
+    background: url("../images/headerPhoto.jpg");
+    color: white;
+}
+
+ul.fiveMain {
+    list-style-type: none;
+    text-align: center;
+    padding: 40px 0;
+}
+
+ul.fiveMain li {
+    display: inline-block;
+    padding: 20px 0;
+}
+
+.fiveMain h5 {
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 2px solid white;
+    line-height: 17px;
+}
+
+.fiveMain li:first-child h5 {
+    border: none;
+}
+
+.welcomeWebster img {
+    width: 500px;
+}
+
+.welcomeWebster {
+    padding: 200px 0;
+}
+
+.greenLink a {
+    text-decoration: none;
+    color: white;
+    background: green;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+.greenLink a:hover {
+    color: black;
+    border: 1px solid black;
+    background: white;
+}
+
+.greenLink{
+    text-align: center;
+}
+
+.colorGray{
+    color: gray;
+    font-size: 23px;
+}
+
+.ourServicesText {
+    padding: 40px 0;
+}
+
+.ourServicesText p {
+    font-size: 23px;
+    color: gray;
+    max-width: 760px;
+    margin-bottom: 0;
+}
+
+.threeServices i {
+    color: green;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.threeServicesBg{
+    background: url("../images/02.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    position: relative;
+}
+
+.threeServicesBg:before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        top: 0;
+        left: 0;
+}
+
+.readMoreLink1 a {
+    text-decoration: none;
+    color: white;
+}
+
+.threeServices {
+    padding: 30px 30px 5px;
+}
+
+.threeServicesHover1:hover{
+    background: url("../images/01.jpg");
+    background-size: cover;
+    color: white;
+    position: relative;
+}
+
+.threeServicesHover1:hover:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    top: 0;
+    left: 0;
+}
+
+.threeServicesHover2:hover{
+    background: url("../images/03.jpg");
+    background-size: cover;
+    color: white;
+    position: relative;
+    
+}
+
+.threeServicesHover2:hover:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    top: 0;
+}
+
+.readMoreLink {
+    position: relative;
+}
+
+.readMoreLink:hover{
+    background: green;
+    color: white;
+}
+
+.readMoreLink a:hover{
+    color: white;
+}
+
+.threeServicesHover1:hover .readMoreLink{
+    background: green;
+    color: white;
+}
+
+.threeServicesHover1:hover .readMoreLink a{
+    color: white;
+}
+
+.threeMain{
+    border: 1px solid darkgray;
+}
+
+.threeMain:hover .readMoreLink a {
+    color: white;
+}
+
+.threeMain:hover .readMoreLink {
+    background: green;
+}
+
+.threeMain:hover ul li i {
+    color: white;
+}
+
+.readMoreLink1 {
+    background: green;
+    padding: 10px 30px;
+}
+
+
+.threeServices ul {
+    list-style-type: none;
+    padding: 0;
+    position: relative;
+}
+
+.ourServices {
+    padding-bottom: 80px;
+}
+
+.readMoreLink {
+    padding: 10px 30px;
+}
+
+
+.readMoreLink a {
+    text-decoration: none;
+    color: gray;
+    display: inline-block;
+}
+
+.websterIsBest {
+    position: relative;
+    padding-bottom: 100px;
+}
+
+.backgroundImgLeft{
+    background: url("../images/07.png");
+    position: absolute;
+    background-size: cover;
+    left: 0;
+    width: 40%;
+    height: 100%;
+}
+
+.featureOne {
+    width: 50%;
+    padding-bottom: 50px;
+}
+
+.featureOne a {
+    text-decoration: none;
+    color: green;
+}
+
+.featureOneLink a {
+    position: relative;
+    padding-right: 40px;
+}
+
+.featureOneLink:hover i {
+    color: gray;
+}
+
+.featureOneLink:hover a {
+    color: gray;
+}
+
+
+.ourServices {
+    padding-bottom: 80px;
+}
+
+.coreFeatures p {
+    color: gray;
+    font-size: 20px;
+}
+
+.paddingLeftFeatures{
+    padding-left: 100px;
+}
+
+.featureOne i {
+    color: green;
+    font-size: 40px;
+    padding: 20px 0;
+}
+
+.featureOneLink i {
+    position: absolute;
+    padding: 0;
+    font-size: 25px;
+}
+
+.featureOne p {
+    padding-right: 10px;
+}
+
+.fourFeatures {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.whatWeDo{
+    padding: 50px 0;
+}
+
+.whatWeDo img {
+    width: 500px;
+    height: 420px;
+}
+
+.linkSame {
+    background: green;
+    padding: 10px 25px;
+    margin-right: 20px;
+}
+
+.linkSame a {
+    text-decoration: none;
+    color: white;
+}
+
+.linkSame i {
+    color: white;
+    padding-left: 10px;
+}
+
+.linkSame1 {
+    border: 2px solid green;
+    padding: 10px 25px;
+}
+
+.linkSame1 a {
+    color: black;
+    padding-right: 10px;
+}
+
+.linkSame1 {
+    border: 2px solid green;
+    padding: 10px 25px;
+}
+
+.linkSame1 a {
+    color: black;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+.linkSame:hover {
+    background: gray;
+}
+
+.linkSame1 a:hover {
+    color: white;
+}
+
+.linkSame1:hover {
+    color: white;
+    background: green;
+}
+
+
+/*.linkSame1:hover {
+    background: green;
+    color: white;
+}*/
+
+.whatWeDoLink {
+    padding-top: 20px;
+}
+
+.firstLetter{
+    font-size: 20px;
+    line-height: 50px;
+}
+
+.progresBar{
+    padding: 50px 0;
+}
+
+.manyReasons{
+    background: url("../images/06.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 100px 0 150px 0;
+    color: white;
+    position: relative;
+}
+
+.manyReasons:before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);top: 0;}
+
+.manyText {
+    position: relative;
+}
+
+.manyText p {
+    font-size: 23px;
+}
+
+.manyText h2 {
+    font-size: 50px;
+}
+
+.manyReasonsSecond h2 {
+    font-size: 60px;
+}
+
+.manyReasonsSecond i {
+    font-size: 50px;
+}
+
+.whatWellSecond img {
+    width: 250px;
+}
+
+.whatWellDo {
+    background: green;
+    color: white;
+    padding: 40px;
+    margin-top: -90px;
+    margin-bottom: 40px;
+    position: relative
+}
+
+.whatWellText p {
+    font-size: 23px;
+}
+
+.twotemplates {
+    width: 50%;
+    position: relative;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+.twoResponsive {
+    display: flex;
+    padding-top: 20px;
+}
+
+.twotemplates i {
+    position: absolute;
+    left: 0;
+    top: 6px;
+    font-size: 40px;
+}
+
+.superCreative{
+    background: rgb(231, 231, 231);
+}
+
+.superCreativeRightPics{
+    display: flex;
+    flex-flow: wrap;
+    width: 1004px!important; /*ne valja */
+}
+
+
+.superCreative {
+    position: relative;
+    padding-bottom: 50px;
+    overflow: hidden;
+}
+
+.superCreative a {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+}
+
+
+.superCreative p {
+    color: gray;
+}
+
+.superCreativeText {
+    padding: 70px;
+}
+
+.superCreativeRightBlanc {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.paddingRight0{
+    padding-right: 0!important;
+}
+
+.superCreativeRightBlanc img {
+    width: 33.3%;
+}
+
+.affordableText {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.affordableText h2 {
+    font-size: 40px;
+}
+
+.threePackages p{
+    color: gray;
+}
+
+.threePackagesLink a {
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.threePackages {
+    background: white;
+    padding: 30px;
+    border-top: 7px solid black;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+.threePackages.threePackagesSecond {
+    border-top: 15px solid green;
+}
+
+.alignBaseline{
+    align-items: baseline;
+}
+
+.threePackages.threePackagesSecond a {
+    font-size: 20px;
+    padding: 10px 70px;
+}
+
+.threePackagesLink {
+    padding-top: 30px;
+}
+
+.affordablePricing{
+    padding-bottom: 50px;
+}
+
+.affordablePricing ul{
+    list-style-type: none;
+    padding-top: 30px;
+    padding: 0 60px;
+}
+
+.affordablePricing ul li span{
+    margin-left: 5px;
+    margin-right: 20px;
+}
+
+.affordablePricing li{
+    padding: 20px 0;
+}
+
+.clientOpinions{
+    background: rgb(231, 231, 231);
+    padding-top: 30px;
+}
+
+.clientParagraph p {
+    position: relative;
+    padding-left: 50px;
+}
+
+.clientParagraph i {
+    position: absolute;
+    left: 0;
+    font-size: 40px;
+    color: green;
+}
+
+.clientParagraph {
+    padding: 40px 0 10px 0;
+}
+
+.teamMembersPics {
+    display: flex;
+}
+
+.teamMembersPics img {
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.flex{
+    display: flex;
+}
+
+.paddingServices{
+    padding-right: 20px;
+}
+
+.latestText span a {
+    text-decoration: none;
+    border: 1px solid green;
+    background: green;
+    color: white;
+    padding: 1px 7px;
+}
+
+.latestText h5 {
+    padding-top: 20px;
+}
+
+.latestHover:hover{
+    background: url("../images/015.jpg");
+    color: white;
+}
+
+.latestHover1{
+    background: url("../images/016.jpg");
+    color: white;
+}
+
+.latestHover2:hover{
+    background: url("../images/017.jpg");
+    color: white;
+}
+
+.latestText h5 a {
+    color: white;
+    text-decoration: none;
+    }
+
+.latestText h5 a:hover {
+    color: green;
+}
+
+.whiteIcon i{
+    color: white;
+}
+
+.firstSpan {
+    position: relative;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.firstSpan i {
+    position: absolute;
+    left: 0;
+    font-size: 15px;
+    top: 5px;
+    color: black;
+}
+
+.firstSpan1 {
+    position: relative;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.firstSpan1 i {
+    position: absolute;
+    left: 0;
+    font-size: 15px;
+    top: 5px;
+    color: white;
+}
+
+.latestArticles {
+    padding: 50px 0;
+}
+
+.greenContact {
+    background: green;
+    color: white;
+    padding: 30px 0;
+}
+
+.contactInformation {
+    position: relative;
+    padding-left: 60px;
+}
+
+.contactInformation i {
+    position: absolute;
+    left: 0;
+    font-size: 40px;
+    top: 2px;
+}
+
+.footerInformation{
+    background: rgb(41, 41, 41);
+    padding-top: 100px;
+}
+
+.firstNavigation li {
+    list-style-type: none;
+    padding: 10px 0;
+}
+
+.firstNavigation ul {
+    padding: 0;
+}
+
+.firstNavigation a{
+    color: darkgray;
+}
+
+.firstNavigation a:hover{
+    color: green;
+}
+
+.secondNavigation li {
+    list-style-type: none;
+    color: darkgray;
+    padding: 10px 0;
+    position: relative;
+    padding-left: 30px;
+}
+
+.secondNavigation ul {
+    padding: 0;
+}
+
+.secondNavigation a {
+    color: darkgray;
+}
+
+.secondNavigation i {
+    padding-right: 10px;
+    position: absolute;
+    left: 0;
+    top: 14px;
+}
+
+.secondNavigation p {
+    color: darkgray;
+    padding: 10px 0;
+}
+
+.formInput input {
+    background: rgb(59, 59, 59);
+    border: none;
+    padding: 25px 20px;
+}
+
+.formInput{
+    padding-bottom: 20px;
+}
+
+.formButton button {
+    color: darkgray;
+    background: transparent;
+    border: 1px solid darkgray;
+    padding: 10px 20px;
+}
+
+.formButton button:hover {
+    color: white;
+    border: 1px solid green;
+    background: green;
+}
+
+.footerInformation h5 {
+    color: white;
+}
+
+.footerInformation a {
+    text-decoration: none;
+}
+
+ul.footerIcons li {
+    display: inline-block;
+    padding: 10px;
+}
+
+ul.footerIcons {
+    text-align: right;
+}
+
+.footerCopyright {
+    color: darkgray;
+}
+
+.websterLink a {
+    color: green;
+}
+
+.footerIcons a {
+    color: darkgray;
+}
+
+
+/*.backgroundImgLeft {
+    background: url(../images/07.png);
+    position: relative;
+    background-size: contain;
+    background-repeat: no-repeat;
+    left: 0;
+    width: 100%;
+    height: 300px;
+    background-position: center;
+}  @media */
+
+@media(max-width:1198px){
+    ul.navbar-nav.ml-auto.colorWhite {
+        font-size: 15px;
+    }
+
+    .whatWeDoImg img {
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .affordablePricing ul {
+        padding: 0 30px;
+    }
+}
+
+@media(max-width:1032px){
+    .welcomeImg img {
+        width: 100%;
+    }
+}
+
+@media(max-width:991px){
+
+    .backgroundImgLeft {
+        background: url(../images/07.png);
+        position: relative;
+        background-size: contain;
+        background-repeat: no-repeat;
+        left: 0;
+        width: 100%;
+        height: 300px;
+        background-position: center;
+    }
+
+    ul.navbar-nav.ml-auto.colorWhite {
+        font-size: 15px;
+    }
+
+    .welcomeH1 h1{
+        font-size: 35px;
+    }
+
+    .welcomeImg img{
+        width: 100%;
+    }
+
+    .featureOne p {
+        min-height: 72px;
+    }
+
+    .whatWeDoImg img{
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .whatWellSecond img {
+        width: 100%;
+    }
+
+    .affordablePricing ul {
+        padding: 0 30px;
+    }
+
+    .threePackages.threePackagesSecond a {
+        padding: 10px 50px;
+    }
+
+    .websterLink {
+        font-size: 13px;
+    }
+}
+
+@media(max-width:768px){
+    .welcomeH1 h1 {
+        font-size: 29px;
+    }
+    
+    .welcomeImg img {
+        max-width: 400px;
+    }
+    
+    .welcomeImg {
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .fiveMain li h5 {
+        font-size: 18px;
+    }
+
+    .threeMain{
+        margin-bottom: 20px;
+    }
+
+    .whatWeDoImg img{
+        margin-bottom: 20px;
+    }
+
+    .manyReasonsSecond h2 {
+        font-size: 40px;
+    }
+    
+    .manyText p {
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    
+    .manyReasonsSecond span {
+        font-size: 15px;
+    }
+    
+    .manyReasonsSecond i {
+        font-size: 45px;
+    }
+
+    .whatWellText p {
+        font-size: 20px;
+    }
+
+    .threePackages.threePackagesSecond a {
+        padding: 10px 25px;
+    }
+
+    .threePackages.threePackagesSecond a {
+        padding: 10px 25px;
+    }
+    
+    .affordablePricing ul {
+        padding: 0;
+    }
+    
+    .affordablePricing span {
+        font-size: 13px;
+    }
+
+    .clientImg img {
+        width: 300px;
+    }
+    
+    .clientImg {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .teamMembersPics {
+        padding-bottom: 20px;
+    }
+
+    .threeServices.latestText.latestHover {
+        margin-bottom: 20px;
+    }
+    
+    .threeServices.latestText.latestHover1 {
+        margin-bottom: 20px;
+    }
+}
+
+@media(max-width:576px){
+    ul.footerIcons {
+        padding: 0;
+    }
+    
+    .websterLink {
+        font-size: 12px;
+    }
+    
+    ul.companyIcons {
+        padding: 0;
+        text-align: center;
+    }
+    
+    a.navbar-brand img {
+        width: 150px;
+    }
+    
+    .welcomeImg img {
+        width: 200px;
+    }
+    
+    ul.fiveMain {
+        padding: 20px 0;
+    }
+    
+    ul.fiveMain li {
+        padding: 0;
+    }
+    
+    .greenLink {
+        font-size: 10px;
+    }
+
+    .headerPhoto{
+        background-size: cover;
+    }
+
+    .welcomeWebster {
+        padding: 20px 0;
+    }
+
+    .ourServicesText p {
+        font-size: 15px;
+    }
+
+    .ourServicesText p {
+        font-size: 15px;
+    }
+    
+    .whatWeDoImg img {
+        height: 200px;
+    }
+    
+    .whatWeDoText h2 {
+        font-size: 25px;
+    }
+
+    .whatWeDoText p {
+        font-size: 15px;
+    }
+    
+    .whatWeDoMain p {
+        font-size: 12px;
+    }
+
+    .whatWeDoLink {
+        flex-flow: wrap;
+    }
+    
+    .linkSame {
+        margin-bottom: 20px;
+    }
+
+    .progresBar {
+        width: 270px;
+    }
+
+    .manyText h2 {
+        font-size: 30px;
+    }
+    
+    .manyText p {
+        font-size: 15px;
+    }
+    
+    .manyReasonsNumber {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .whatWellText p {
+        font-size: 15px;
+    }
+
+    .whatWellText p {
+        font-size: 15px;
+    }
+    
+    .twotemplates {
+        width: 100%;
+    }
+    
+    .twoResponsive {
+        flex-flow: wrap;
+    }
+
+    .superCreativeText h2 {
+        font-size: 28px;
+    }
+    
+    .superCreativeText h5 {
+        font-size: 15px;
+    }
+    
+    .superCreativeText p {
+        font-size: 13px;
+    }
+
+    .linkSame {
+        font-size: 10px;
+    }
+    
+    .superCreativeText {
+        padding: 0 30px;
+    }
+
+    .clientImg img {
+        width: 130px;
+    }
+    
+    .clientOpinions h2 {
+        font-size: 23px;
+    }
+    
+    p.colorGray {
+        font-size: 15px;
+    }
+    
+    p.colorGray i {
+        font-size: 25px;
+    }
+
+    .teamMembersPics {
+        flex-flow: wrap;
+    }
+
+    .contactInformation i {
+        padding-left: 10px;
+    }
+
+    .navigationUseful {
+        flex-flow: wrap;
+    }
+    
+    .firstNavigation {
+        width: 100%;
+        text-align: center;
+    }
+
+    .contactSubscribe {
+        flex-flow: wrap;
+    }
+    
+    .secondNavigation {
+        text-align: center;
+    }
+
+    .featureOne {
+        width: 100%;
+    }
+    
+    .coreFeatures h2 {
+        font-size: 24px;
+    }
+    
+    .coreFeatures p {
+        font-size: 15px;
+    }
+
+    .fourFeatures {
+        text-align: center;
+    }
+
+    .coreFeatures {
+        text-align: center;
+    }
+}
+
+@media(max-width:320px){
+    
+}
